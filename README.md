@@ -234,12 +234,14 @@
   <img src="assets/PROJET_GALERIE/PROJET GALLERY 15.png" width="31%" alt="Projet Gallery 15" />
 </p>
 <p align="center">
-  <img src="assets/PROJET_GALERIE/PROJET GALLERY 16.png" width="31%" alt="Projet Gallery 16" />
+  <img src="assets/PROJET_GALERIE/PROJET GALLERY 16.png" width="35%" alt="Projet Gallery 16" />
+  </p>
+  <p align="center">
   <img src="assets/PROJET_GALERIE/PROJET GALLERY 17.png" width="31%" alt="Projet Gallery 17" />
   <img src="assets/PROJET_GALERIE/PROJET GALLERY 18.png" width="31%" alt="Projet Gallery 18" />
+    <img src="assets/PROJET_GALERIE/PROJET GALLERY 19.png" width="48%" alt="Projet Gallery 19" />
 </p>
 <p align="center">
-  <img src="assets/PROJET_GALERIE/PROJET GALLERY 19.png" width="48%" alt="Projet Gallery 19" />
   <img src="assets/PROJET_GALERIE/PROJET GALLERY 20.png" width="48%" alt="Projet Gallery 20" />
 </p>
 
