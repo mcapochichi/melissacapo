@@ -1,153 +1,279 @@
-<div align="center">
+<!DOCTYPE HTML>
+<html lang="fr">
+	<head>
+		<title>Mélissa CAPO-CHICHI — Portfolio Digital Marketing & Design</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 
-  <!-- BANNIERE ANIMEE & TYPOGRAPHIE DYNAMIQUE -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=M%C3%89LISSA+CAPO-CHICHI;Digital+Marketer+%26+Brand+Designer;Strat%C3%A9gie+de+Marque+%26+Design" alt="Typing Effect" />
+		<!-- STYLE SOMBRE & ÉLECTRIQUE PERSONNALISÉ -->
+		<style>
+			/* Fond général et police */
+			body, #wrapper {
+				background-color: #0b0d17 !important;
+				color: #c5cbe3 !important;
+			}
 
-  <br/><br/>
+			/* Section d'accueil / Intro */
+			#intro {
+				background: linear-gradient(135deg, #0b0d17 0%, #1a1c2e 50%, #120e24 100%) !important;
+			}
 
-  <!-- PHOTO DE PROFIL HAUT -->
-  <a href="https://www.linkedin.com/in/m%C3%A9lissa-capo-chichi-41235b293/">
-    <img src="assets/MOI/PHOTO%201.jpeg" width="220px" style="border-radius: 50%; border: 4px solid #7209B7; box-shadow: 0px 8px 15px rgba(0,0,0,0.3);" alt="Mélissa CAPO-CHICHI" />
-  </a>
+			#intro h1 {
+				color: #ffffff !important;
+				text-shadow: 0 0 15px rgba(114, 9, 183, 0.6), 0 0 30px rgba(67, 97, 238, 0.4);
+			}
 
-  <h3><b>✨ Bienvenue sur mon Portfolio Créatif ✨</b></h3>
-  <p><i>Licence en Communication Digitale & Web Marketing (Mention Excellente)</i></p>
+			#intro p {
+				color: #4cc9f0 !important;
+			}
 
-  <!-- BADGES RÉSEAUX SOCIAUX & CONTACT (SANS TIKTOK) -->
-  <p>
-    <a href="https://www.instagram.com/melis2a_spam">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://www.linkedin.com/in/m%C3%A9lissa-capo-chichi-41235b293/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:capochichimelissa19@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+			/* Titres et liens */
+			h1, h2, h3, h2 a, h3 a {
+				color: #ffffff !important;
+			}
 
-</div>
+			h2 a:hover, h3 a:hover {
+				color: #4cc9f0 !important;
+			}
 
-<hr/>
+			/* Blocs principaux et cartes de projets */
+			#main {
+				background-color: #121526 !important;
+				border: 1px solid rgba(76, 201, 240, 0.15) !important;
+				box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5) !important;
+			}
 
-## 👩‍🎨 À Propos & Vision
+			#main > .post {
+				border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
+			}
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <p>Passionnée par l'univers du <b>Brand Design</b>, de la <b>Création de Contenu</b> et de la <b>Stratégie Digitale</b>, je façonne des identités visuelles fortes et captivantes qui démarquent les marques de leurs concurrents.</p>
-      <p>Mon objectif : allier esthétique, pertinence stratégique et créativité pour donner vie à des projets uniques.</p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mcapochichi&theme=synthwave&show_icons=true&hide_border=true" width="100%" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+			.posts > article {
+				border: 1px solid rgba(255, 255, 255, 0.08) !important;
+				background: rgba(255, 255, 255, 0.02) !important;
+				border-radius: 8px !important;
+				transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease !important;
+			}
 
-### 🛠️ Palette d'Outils & Compétences
+			.posts > article:hover {
+				transform: translateY(-5px);
+				border-color: #7209b7 !important;
+				box-shadow: 0 5px 20px rgba(114, 9, 183, 0.3) !important;
+			}
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta_Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-</p>
+			/* Dates / Sous-titres */
+			.date {
+				color: #4cc9f0 !important;
+				font-weight: 600;
+			}
 
-<hr/>
+			/* Boutons électrisés */
+			input[type="submit"],
+			input[type="reset"],
+			input[type="button"],
+			button,
+			.button {
+				background-color: transparent !important;
+				box-shadow: inset 0 0 0 2px #4361ee !important;
+				color: #ffffff !important;
+				transition: all 0.3s ease !important;
+			}
 
-## 🎨 Galerie des 9 Projets Phares
+			input[type="submit"]:hover,
+			input[type="reset"]:hover,
+			input[type="button"]:hover,
+			button:hover,
+			.button:hover {
+				background-color: #4361ee !important;
+				box-shadow: 0 0 15px rgba(67, 97, 238, 0.6) !important;
+				color: #ffffff !important;
+			}
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧃 01. Série d'Affiches Jus</h3>
-      <p align="center"><img src="assets/PROJET_JUS/PROJET%20JUS%201.png" width="100%" style="border-radius:10px;" alt="Projet Jus"/></p>
-      <p><b>Concept :</b> Direction artistique & conception d'une série de 4 affiches publicitaires colorées et dynamiques pour une marque de jus de fruits.</p>
-      <p><b>Outils :</b> Illustrator / Photoshop</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏋️ 02. Campagne Affiches Pub</h3>
-      <p align="center"><img src="assets/PROJET_AFFICHE_PUB/AFFICHE%20PUB%201.png" width="100%" style="border-radius:10px;" alt="Affiches Pub"/></p>
-      <p><b>Concept :</b> Conception de visuels publicitaires ciblés : promotion resto gourmand & univers dynamique de salle de sport.</p>
-      <p><b>Outils :</b> Photoshop / Design Graphique</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏢 03. Identité Agence Marketing</h3>
-      <p align="center"><img src="assets/PROJET_AGENCE/PROJET%20AGENCE%201.png" width="100%" style="border-radius:10px;" alt="Agence Marketing"/></p>
-      <p><b>Concept :</b> Élaboration des déclinaisons de logotypes, palette chromatique et recherche typographique pour une agence marketing.</p>
-      <p><b>Outils :</b> Branding / Illustrator</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🖼️ 04. Projet Arts Vagabonds</h3>
-      <p align="center"><img src="assets/PROJET_GALERIE/PROJET%20GALLERY%201.png" width="100%" style="border-radius:10px;" alt="Arts Vagabonds"/></p>
-      <p><b>Concept :</b> Brand Identity complète d'une galerie d'art : typographie, mockups merchandising (t-shirts, casquettes), maquette web Figma & billetterie.</p>
-      <p><b>Outils :</b> Figma / Illustrator / Mockups 3D</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✨ 05. Branding Bella Moda</h3>
-      <p align="center"><img src="assets/PROJET_ENTREPRISE/PROJET%20ENTREPRISE%202.png" width="100%" style="border-radius:10px;" alt="Bella Moda"/></p>
-      <p><b>Concept :</b> Charte graphique, logotypes, harmonies de couleurs et choix typographiques sur-mesure pour identités de marques privées.</p>
-      <p><b>Outils :</b> Brand Design / Illustrator</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🥤 06. Canette Mockup & Pub</h3>
-      <p align="center"><img src="assets/PROJET_AFFICHE_PUB/AFFICHE%20PUB%203.png" width="100%" style="border-radius:10px;" alt="Canette Mockup"/></p>
-      <p><b>Concept :</b> Publicité visuelle produit, texturisation, gestion des ombres/lumières et mise en situation sur canette.</p>
-      <p><b>Outils :</b> Photomontage / Photoshop</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏖️ 07. Visuel Event Beach Party</h3>
-      <p align="center"><img src="assets/PROJET_ACADEMIQUE/PROJET%20ACADEMIQUE%201.png" width="100%" style="border-radius:10px;" alt="Beach Party"/></p>
-      <p><b>Concept :</b> Projet académique : création d'une affiche événementielle festive et immersive pour une soirée à la plage.</p>
-      <p><b>Outils :</b> Visual Art / Photoshop</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 08. Couverture & Bannière eBook</h3>
-      <p align="center"><img src="assets/PROJET_EBOOK/PROJET%20EBOOK%201.png" width="100%" style="border-radius:10px;" alt="Projet eBook"/></p>
-      <p><b>Concept :</b> Design de couverture pour livre numérique, bannières promotionnelles web et déclinaisons visuelles sociales.</p>
-      <p><b>Outils :</b> Cover Design / Photoshop</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🍽️ 09. Restaurant Chez Nikita - Branding 360°</h3>
-      <p align="center"><img src="assets/PROJET_RESTO/PROJET%20RESTO%201.png" width="100%" style="border-radius:10px;" alt="Chez Nikita"/></p>
-      <p><b>Concept :</b> Projet global de restauration : identité de marque, tabliers personnalisés, étiquettes packaging (yaourts/plats), cartes menus et série de 4 affiches promotionnelles.</p>
-      <p><b>Outils :</b> Brand Strategy / Mockups / Illustrator / Photoshop</p>
-    </td>
-  </tr>
-</table>
+			/* Navigation */
+			#nav {
+				background-color: #0b0d17 !important;
+				border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+			}
 
-<hr/>
+			#nav ul.links li.active a {
+				background-color: #121526 !important;
+				color: #4cc9f0 !important;
+			}
 
-<!-- SECTION CONTACT BAS -->
-<div align="center">
+			/* Pied de page et Formulaire */
+			#footer {
+				background-color: #080910 !important;
+				border-top: 1px solid rgba(255, 255, 255, 0.08) !important;
+			}
 
-  <h2>💌 Travaillons Ensemble !</h2>
+			input[type="text"], input[type="password"], input[type="email"], select, textarea {
+				background: rgba(255, 255, 255, 0.05) !important;
+				border-color: rgba(255, 255, 255, 0.15) !important;
+				color: #ffffff !important;
+			}
 
-  <table border="0">
-    <tr>
-      <td width="30%" align="center">
-        <img src="assets/MOI/PHOTO%202.jpeg" width="160px" style="border-radius: 20px; border: 3px solid #4895EF;" alt="Mélissa CAPO-CHICHI Contact" />
-      </td>
-      <td width="70%" valign="middle">
-        <p><b>📍 Localisation :</b> Abomey-Calavi, Bénin (Disponible à distance / Télétravail)</p>
-        <p><b>✉️ Email :</b> <a href="mailto:capochichimelissa19@gmail.com">capochichimelissa19@gmail.com</a></p>
-        <p><b>💼 Statut :</b> Disponible pour des opportunités en Marketing Digital & Brand Design</p>
-      </td>
-    </tr>
-  </table>
+			input[type="text"]:focus, textarea:focus {
+				border-color: #4cc9f0 !important;
+				box-shadow: 0 0 8px rgba(76, 201, 240, 0.4) !important;
+			}
+		</style>
+	</head>
+	<body class="is-preload">
 
-  <br/>
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
 
-  <p><i>Designé avec passion par Mélissa CAPO-CHICHI © 2026</i></p>
+				<!-- Intro -->
+					<div id="intro">
+						<h1>Mélissa Nadia<br />CAPO-CHICHI</h1>
+						<p>Digital Marketing, Brand Strategy & Design Multimédia</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continuer</a></li>
+						</ul>
+					</div>
 
-</div>
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Mélissa Portfolio</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">Projets Récents</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post (Projet Phare : Kreamarket) -->
+							<article class="post featured">
+								<header class="major">
+									<span class="date">Projet Phare</span>
+									<h2><a href="#">KREAMARKET<br />Identité Visuelle & Brand Book</a></h2>
+									<p>Conception complète de la charte graphique, choix typographique et palette de couleurs pour la marque Kreamarket.</p>
+								</header>
+								<a href="#" class="image main"><img src="assets/PROJET_ENTREPRISE/README.md" alt="Projet Kreamarket" /></a>
+								<ul class="actions special">
+									<li><a href="#" class="button large">Découvrir le projet</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts (Grille de Projets) -->
+							<section class="posts">
+								<article>
+									<header>
+										<span class="date">Packaging & Branding</span>
+										<h2><a href="#">Chez Nikita<br />Packaging Mockup</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="assets/PROJET_RESTAURANT/README.md" alt="Chez Nikita" /></a>
+									<p>Design de mockups de packaging sur papier avec motifs ornementaux pour le Restaurant Chez Nikita.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Voir le projet</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">Design Produit</span>
+										<h2><a href="#">Gammes Laitières<br />Nikita Yogurt</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="assets/PROJET_JUS/README.md" alt="Yaourt Nikita" /></a>
+									<p>Création d'étiquettes produits pour "Yaourt de Nikita" et "Yaourt au couscous" avec intégration de QR Code TikTok.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Voir le projet</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">Communication Visuelle</span>
+										<h2><a href="#">Affiches & Pubs<br />Campagnes Marketing</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="assets/PROJET_AFFICHE_PUB/README.md" alt="Affiches Pub" /></a>
+									<p>Série de visuels publicitaires et d'affiches créatives développées sous Adobe Photoshop.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Voir le projet</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">Stratégie Digitale</span>
+										<h2><a href="#">Projets Agence<br />& Édition Digital</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="assets/PROJET_AGENCE/README.md" alt="Projets Agence" /></a>
+									<p>Conception d'e-books, de présentations stratégiques et d'identités de marque pour clients et agences.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Voir le projet</a></li>
+									</ul>
+								</article>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Nom</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="3"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Envoyer le message" /></li>
+								</ul>
+							</form>
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Localisation</h3>
+								<p>Bénin</p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">contact@melissa.com</a></p>
+							</section>
+							<section>
+								<h3>Réseaux Sociaux</h3>
+								<ul class="icons alt">
+									<li><a href="#" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Mélissa CAPO-CHICHI</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
