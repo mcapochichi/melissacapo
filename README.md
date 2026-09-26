@@ -1,279 +1,219 @@
 <!DOCTYPE HTML>
 <html lang="fr">
 	<head>
-		<title>Mélissa CAPO-CHICHI — Portfolio Digital Marketing & Design</title>
+		<title>Mélissa Nadia Sènan CAPO-CHICHI — Portfolio</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 
-		<!-- STYLE SOMBRE & ÉLECTRIQUE PERSONNALISÉ -->
+		<!-- STYLE SOMBRE ÉLÉGANT & PROFESSIONNEL -->
 		<style>
-			/* Fond général et police */
 			body, #wrapper {
-				background-color: #0b0d17 !important;
-				color: #c5cbe3 !important;
+				background-color: #0d0f1a !important;
+				color: #d1d5db !important;
 			}
-
-			/* Section d'accueil / Intro */
 			#intro {
-				background: linear-gradient(135deg, #0b0d17 0%, #1a1c2e 50%, #120e24 100%) !important;
+				background: linear-gradient(135deg, #0d0f1a 0%, #1e1b4b 50%, #0d0f1a 100%) !important;
 			}
-
 			#intro h1 {
 				color: #ffffff !important;
-				text-shadow: 0 0 15px rgba(114, 9, 183, 0.6), 0 0 30px rgba(67, 97, 238, 0.4);
+				text-shadow: 0 0 20px rgba(99, 102, 241, 0.5);
 			}
-
 			#intro p {
-				color: #4cc9f0 !important;
+				color: #818cf8 !important;
 			}
-
-			/* Titres et liens */
 			h1, h2, h3, h2 a, h3 a {
 				color: #ffffff !important;
 			}
-
-			h2 a:hover, h3 a:hover {
-				color: #4cc9f0 !important;
-			}
-
-			/* Blocs principaux et cartes de projets */
 			#main {
-				background-color: #121526 !important;
-				border: 1px solid rgba(76, 201, 240, 0.15) !important;
+				background-color: #151828 !important;
+				border: 1px solid rgba(255, 255, 255, 0.08) !important;
 				box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5) !important;
 			}
-
-			#main > .post {
-				border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
-			}
-
 			.posts > article {
 				border: 1px solid rgba(255, 255, 255, 0.08) !important;
 				background: rgba(255, 255, 255, 0.02) !important;
 				border-radius: 8px !important;
-				transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease !important;
 			}
-
 			.posts > article:hover {
-				transform: translateY(-5px);
-				border-color: #7209b7 !important;
-				box-shadow: 0 5px 20px rgba(114, 9, 183, 0.3) !important;
+				border-color: #6366f1 !important;
+				box-shadow: 0 5px 20px rgba(99, 102, 241, 0.25) !important;
 			}
-
-			/* Dates / Sous-titres */
-			.date {
-				color: #4cc9f0 !important;
-				font-weight: 600;
-			}
-
-			/* Boutons électrisés */
-			input[type="submit"],
-			input[type="reset"],
-			input[type="button"],
-			button,
 			.button {
-				background-color: transparent !important;
-				box-shadow: inset 0 0 0 2px #4361ee !important;
+				box-shadow: inset 0 0 0 2px #6366f1 !important;
 				color: #ffffff !important;
-				transition: all 0.3s ease !important;
 			}
-
-			input[type="submit"]:hover,
-			input[type="reset"]:hover,
-			input[type="button"]:hover,
-			button:hover,
 			.button:hover {
-				background-color: #4361ee !important;
-				box-shadow: 0 0 15px rgba(67, 97, 238, 0.6) !important;
+				background-color: #6366f1 !important;
 				color: #ffffff !important;
 			}
-
-			/* Navigation */
-			#nav {
-				background-color: #0b0d17 !important;
-				border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
-			}
-
-			#nav ul.links li.active a {
-				background-color: #121526 !important;
-				color: #4cc9f0 !important;
-			}
-
-			/* Pied de page et Formulaire */
 			#footer {
-				background-color: #080910 !important;
-				border-top: 1px solid rgba(255, 255, 255, 0.08) !important;
-			}
-
-			input[type="text"], input[type="password"], input[type="email"], select, textarea {
-				background: rgba(255, 255, 255, 0.05) !important;
-				border-color: rgba(255, 255, 255, 0.15) !important;
-				color: #ffffff !important;
-			}
-
-			input[type="text"]:focus, textarea:focus {
-				border-color: #4cc9f0 !important;
-				box-shadow: 0 0 8px rgba(76, 201, 240, 0.4) !important;
+				background-color: #080911 !important;
 			}
 		</style>
 	</head>
 	<body class="is-preload">
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+		<div id="wrapper" class="fade-in">
 
-				<!-- Intro -->
-					<div id="intro">
-						<h1>Mélissa Nadia<br />CAPO-CHICHI</h1>
-						<p>Digital Marketing, Brand Strategy & Design Multimédia</p>
-						<ul class="actions">
-							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continuer</a></li>
-						</ul>
-					</div>
+			<!-- EN-TÊTE INTRO -->
+			<div id="intro">
+				<h1>Mélissa Nadia Sènan<br />CAPO-CHICHI</h1>
+				<p>Digital Marketing, Content Strategy & Visual Identity</p>
+				<ul class="actions">
+					<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Voir mes réalisations</a></li>
+				</ul>
+			</div>
 
-				<!-- Header -->
-					<header id="header">
-						<a href="index.html" class="logo">Mélissa Portfolio</a>
+			<header id="header">
+				<a href="index.html" class="logo">Mélissa CAPO-CHICHI</a>
+			</header>
+
+			<!-- NAVIGATION & RÉSEAUX -->
+			<nav id="nav">
+				<ul class="links">
+					<li class="active"><a href="index.html">Mes Projets</a></li>
+				</ul>
+				<ul class="icons">
+					<!-- Remplace les # ci-dessous par tes vrais liens si tu en as -->
+					<li><a href="https://www.linkedin.com" target="_blank" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+					<li><a href="https://www.instagram.com" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="https://github.com/Mcapochichi" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+				</ul>
+			</nav>
+
+			<!-- CONTENU PRINCIPAL -->
+			<div id="main">
+
+				<!-- PROJET PRINCIPAL -->
+				<article class="post featured">
+					<header class="major">
+						<span class="date">Projet Académique</span>
+						<h2>PROJET ACADÉMIQUE</h2>
+						<p>Travaux de conception et réalisations visuelles académiques.</p>
 					</header>
+					<!-- Lien direct vers l'image dans ton dossier assets -->
+					<a class="image main"><img src="assets/PROJET_ACADEMIQUE/PROJET ACADEMIQUE 1.png" alt="Projet Académique" /></a>
+				</article>
 
-				<!-- Nav -->
-					<nav id="nav">
-						<ul class="links">
-							<li class="active"><a href="index.html">Projets Récents</a></li>
-						</ul>
-						<ul class="icons">
-							<li><a href="#" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-						</ul>
-					</nav>
+				<!-- GRILLE DES AUTRES PROJETS REALISÉS -->
+				<section class="posts">
 
-				<!-- Main -->
-					<div id="main">
+					<article>
+						<header>
+							<span class="date">Branding & Communication</span>
+							<h2>Affiches Publicitaires</h2>
+						</header>
+						<a class="image fit"><img src="assets/PROJET_AFFICHE_PUB/AFFICHE 1.png" alt="Affiche Publicitaire" /></a>
+						<p>Création de visuels et supports de communication publicitaire.</p>
+					</article>
 
-						<!-- Featured Post (Projet Phare : Kreamarket) -->
-							<article class="post featured">
-								<header class="major">
-									<span class="date">Projet Phare</span>
-									<h2><a href="#">KREAMARKET<br />Identité Visuelle & Brand Book</a></h2>
-									<p>Conception complète de la charte graphique, choix typographique et palette de couleurs pour la marque Kreamarket.</p>
-								</header>
-								<a href="#" class="image main"><img src="assets/PROJET_ENTREPRISE/README.md" alt="Projet Kreamarket" /></a>
-								<ul class="actions special">
-									<li><a href="#" class="button large">Découvrir le projet</a></li>
-								</ul>
-							</article>
+					<article>
+						<header>
+							<span class="date">Identité Visuelle</span>
+							<h2>Projets Agence</h2>
+						</header>
+						<a class="image fit"><img src="assets/PROJET_AGENCE/AGENCE 1.png" alt="Projet Agence" /></a>
+						<p>Développement de concepts visuels et stratégie de marque.</p>
+					</article>
 
-						<!-- Posts (Grille de Projets) -->
-							<section class="posts">
-								<article>
-									<header>
-										<span class="date">Packaging & Branding</span>
-										<h2><a href="#">Chez Nikita<br />Packaging Mockup</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="assets/PROJET_RESTAURANT/README.md" alt="Chez Nikita" /></a>
-									<p>Design de mockups de packaging sur papier avec motifs ornementaux pour le Restaurant Chez Nikita.</p>
-									<ul class="actions special">
-										<li><a href="#" class="button">Voir le projet</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">Design Produit</span>
-										<h2><a href="#">Gammes Laitières<br />Nikita Yogurt</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="assets/PROJET_JUS/README.md" alt="Yaourt Nikita" /></a>
-									<p>Création d'étiquettes produits pour "Yaourt de Nikita" et "Yaourt au couscous" avec intégration de QR Code TikTok.</p>
-									<ul class="actions special">
-										<li><a href="#" class="button">Voir le projet</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">Communication Visuelle</span>
-										<h2><a href="#">Affiches & Pubs<br />Campagnes Marketing</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="assets/PROJET_AFFICHE_PUB/README.md" alt="Affiches Pub" /></a>
-									<p>Série de visuels publicitaires et d'affiches créatives développées sous Adobe Photoshop.</p>
-									<ul class="actions special">
-										<li><a href="#" class="button">Voir le projet</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">Stratégie Digitale</span>
-										<h2><a href="#">Projets Agence<br />& Édition Digital</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="assets/PROJET_AGENCE/README.md" alt="Projets Agence" /></a>
-									<p>Conception d'e-books, de présentations stratégiques et d'identités de marque pour clients et agences.</p>
-									<ul class="actions special">
-										<li><a href="#" class="button">Voir le projet</a></li>
-									</ul>
-								</article>
-							</section>
+					<article>
+						<header>
+							<span class="date">Édition Numérique</span>
+							<h2>Projet E-Book</h2>
+						</header>
+						<a class="image fit"><img src="assets/PROJET_EBOOK/EBOOK 1.png" alt="Projet E-Book" /></a>
+						<p>Mise en page et design d'ouvrages numériques.</p>
+					</article>
 
-					</div>
+					<article>
+						<header>
+							<span class="date">Design d'Entreprise</span>
+							<h2>Projet Entreprise</h2>
+						</header>
+						<a class="image fit"><img src="assets/PROJET_ENTREPRISE/ENTREPRISE 1.png" alt="Projet Entreprise" /></a>
+						<p>Supports visuels et charte graphique pour entreprise.</p>
+					</article>
 
-				<!-- Footer -->
-					<footer id="footer">
-						<section>
-							<form method="post" action="#">
-								<div class="fields">
-									<div class="field">
-										<label for="name">Nom</label>
-										<input type="text" name="name" id="name" />
-									</div>
-									<div class="field">
-										<label for="email">Email</label>
-										<input type="text" name="email" id="email" />
-									</div>
-									<div class="field">
-										<label for="message">Message</label>
-										<textarea name="message" id="message" rows="3"></textarea>
-									</div>
-								</div>
-								<ul class="actions">
-									<li><input type="submit" value="Envoyer le message" /></li>
-								</ul>
-							</form>
-						</section>
-						<section class="split contact">
-							<section class="alt">
-								<h3>Localisation</h3>
-								<p>Bénin</p>
-							</section>
-							<section>
-								<h3>Email</h3>
-								<p><a href="#">contact@melissa.com</a></p>
-							</section>
-							<section>
-								<h3>Réseaux Sociaux</h3>
-								<ul class="icons alt">
-									<li><a href="#" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
-									<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-								</ul>
-							</section>
-						</section>
-					</footer>
+					<article>
+						<header>
+							<span class="date">Packaging & Produit</span>
+							<h2>Design Produit (Jus & Gammes)</h2>
+						</header>
+						<a class="image fit"><img src="assets/PROJET_JUS/JUS 1.png" alt="Projet Jus" /></a>
+						<p>Conception d'étiquettes et de visuels de packaging produit.</p>
+					</article>
 
-				<!-- Copyright -->
-					<div id="copyright">
-						<ul><li>&copy; Mélissa CAPO-CHICHI</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
-					</div>
+					<article>
+						<header>
+							<span class="date">Galerie Créative</span>
+							<h2>Galerie de Réalisations</h2>
+						</header>
+						<a class="image fit"><img src="assets/PROJET_GALERIE/GALERIE 1.png" alt="Galerie de créations" /></a>
+						<p>Recueil de créations graphiques et travaux multimédias.</p>
+					</article>
+
+				</section>
 
 			</div>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<!-- PIED DE PAGE ET CONTACT -->
+			<footer id="footer">
+				<section>
+					<form method="post" action="#">
+						<div class="fields">
+							<div class="field">
+								<label for="name">Nom</label>
+								<input type="text" name="name" id="name" />
+							</div>
+							<div class="field">
+								<label for="email">Email</label>
+								<input type="text" name="email" id="email" />
+							</div>
+							<div class="field">
+								<label for="message">Message</label>
+								<textarea name="message" id="message" rows="3"></textarea>
+							</div>
+						</div>
+						<ul class="actions">
+							<li><input type="submit" value="Envoyer le message" /></li>
+						</ul>
+					</form>
+				</section>
+				<section class="split contact">
+					<section class="alt">
+						<h3>Localisation</h3>
+						<p>Cotonou, Bénin</p>
+					</section>
+					<section>
+						<h3>Email</h3>
+						<p>Ton adresse email ici</p>
+					</section>
+					<section>
+						<h3>Réseaux Sociaux</h3>
+						<ul class="icons alt">
+							<li><a href="https://www.linkedin.com" target="_blank" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://www.instagram.com" target="_blank" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://github.com/Mcapochichi" target="_blank" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</section>
+				</section>
+			</footer>
+
+			<div id="copyright">
+				<ul><li>&copy; Mélissa Nadia Sènan CAPO-CHICHI</li></ul>
+			</div>
+
+		</div>
+
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
 
 	</body>
 </html>
