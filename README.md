@@ -38,7 +38,7 @@
       <p>Mon objectif : allier esthétique, pertinence stratégique et créativité pour donner vie à des projets uniques.</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mcapochichi&theme=synthwave&show_icons=true&hide_border=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Mcapochichi&theme=synthwave&show_icons=true&hide_border=true" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -234,12 +234,12 @@
   <img src="assets/PROJET_GALERIE/PROJET GALLERY 15.png" width="31%" alt="Projet Gallery 15" />
 </p>
 <p align="center">
-  <img src="assets/PROJET_GALERIE/PROJET GALLERY 16.png" width="24%" alt="Projet Gallery 16" />
-  <img src="assets/PROJET_GALERIE/PROJET GALLERY 17.png" width="24%" alt="Projet Gallery 17" />
-  <img src="assets/PROJET_GALERIE/PROJET GALLERY 18.png" width="24%" alt="Projet Gallery 18" />
-  <img src="assets/PROJET_GALERIE/PROJET GALLERY 19.png" width="24%" alt="Projet Gallery 19" />
+  <img src="assets/PROJET_GALERIE/PROJET GALLERY 16.png" width="31%" alt="Projet Gallery 16" />
+  <img src="assets/PROJET_GALERIE/PROJET GALLERY 17.png" width="31%" alt="Projet Gallery 17" />
+  <img src="assets/PROJET_GALERIE/PROJET GALLERY 18.png" width="31%" alt="Projet Gallery 18" />
 </p>
 <p align="center">
+  <img src="assets/PROJET_GALERIE/PROJET GALLERY 19.png" width="48%" alt="Projet Gallery 19" />
   <img src="assets/PROJET_GALERIE/PROJET GALLERY 20.png" width="48%" alt="Projet Gallery 20" />
 </p>
 
