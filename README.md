@@ -37,9 +37,9 @@
       <p>Passionnée par l'univers du <b>Brand Design</b>, de la <b>Création de Contenu</b> et de la <b>Stratégie Digitale</b>, je façonne des identités visuelles fortes et captivantes qui démarquent les marques de leurs concurrents.</p>
       <p>Mon objectif : allier esthétique, pertinence stratégique et créativité pour donner vie à des projets uniques.</p>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mcapochichi&theme=synthwave&show_icons=true&hide_border=true" width="100%" alt="GitHub Stats" />
-    </td>
+   <td width="40%" align="center">
+  <img src="https://cdn.dribbble.com/users/1068771/screenshots/14225138/media/1a3f65604107141f23f03b5f7e7a5d3f.gif" width="100%" style="border-radius: 12px; border: 2px solid #7c3aed;" alt="Design Animation" />
+</td>
   </tr>
 </table>
 
