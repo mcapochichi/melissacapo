@@ -37,8 +37,16 @@
       <p>Passionnée par l'univers du <b>Brand Design</b>, de la <b>Création de Contenu</b> et de la <b>Stratégie Digitale</b>, je façonne des identités visuelles fortes et captivantes qui démarquent les marques de leurs concurrents.</p>
       <p>Mon objectif : allier esthétique, pertinence stratégique et créativité pour donner vie à des projets uniques.</p>
     </td>
-   <td width="40%" align="center">
-  <img src="https://cdn.dribbble.com/users/1068771/screenshots/14225138/media/1a3f65604107141f23f03b5f7e7a5d3f.gif" width="100%" style="border-radius: 12px; border: 2px solid #7c3aed;" alt="Design Animation" />
+  <td width="40%" align="center">
+  <div style="background: linear-gradient(135deg, #2e1065, #7c3aed); padding: 15px; border-radius: 12px; color: white;">
+    <h4 style="margin-bottom: 10px; color: #f472b6;">🎯 DOMAINES D'EXPERTISE</h4>
+    <p style="font-size: 0.85em; text-align: left; margin: 0;">
+      ✨ <b>Brand Design & Identité Visuelle</b><br/>
+      🛍️ <b>Merchandising & Packaging Produit</b><br/>
+      📲 <b>Social Media & Content Strategy</b><br/>
+      📢 <b>Campagnes & Visuels Publicitaires</b>
+    </p>
+  </div>
 </td>
   </tr>
 </table>
