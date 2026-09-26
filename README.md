@@ -5,7 +5,7 @@
 
   <br/><br/>
 
-  <!-- PHOTO DE PROFIL HAUT EN CADRE ARRONDI ET OMBRAGÉ -->
+  <!-- PHOTO DE PROFIL HAUT -->
   <a href="https://www.linkedin.com/in/m%C3%A9lissa-capo-chichi-41235b293/">
     <img src="assets/MOI/PHOTO%201.jpeg" width="220px" style="border-radius: 50%; border: 4px solid #7209B7; box-shadow: 0px 8px 15px rgba(0,0,0,0.3);" alt="Mélissa CAPO-CHICHI" />
   </a>
@@ -13,16 +13,13 @@
   <h3><b>✨ Bienvenue sur mon Portfolio Créatif ✨</b></h3>
   <p><i>Licence en Communication Digitale & Web Marketing (Mention Excellente)</i></p>
 
-  <!-- BADGES RÉSEAUX SOCIAUX & CONTACT -->
+  <!-- BADGES RÉSEAUX SOCIAUX & CONTACT (SANS TIKTOK) -->
   <p>
     <a href="https://www.instagram.com/melis2a_spam">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://www.linkedin.com/in/m%C3%A9lissa-capo-chichi-41235b293/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.tiktok.com/@melissac694">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
     </a>
     <a href="mailto:capochichimelissa19@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -37,12 +34,12 @@
 
 <table border="0">
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
       <p>Passionnée par l'univers du <b>Brand Design</b>, de la <b>Création de Contenu</b> et de la <b>Stratégie Digitale</b>, je façonne des identités visuelles fortes et captivantes qui démarquent les marques de leurs concurrents.</p>
       <p>Mon objectif : allier esthétique, pertinence stratégique et créativité pour donner vie à des projets uniques.</p>
     </td>
-    <td width="35%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcapochichi&layout=compact&theme=synthwave&hide_border=true" width="100%" alt="Stats" />
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=mcapochichi&theme=synthwave&show_icons=true&hide_border=true" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -131,7 +128,7 @@
 
 <hr/>
 
-<!-- SECTION CONTACT BAS AVEC LA DEUXIEME PHOTO DE PROFIL -->
+<!-- SECTION CONTACT BAS -->
 <div align="center">
 
   <h2>💌 Travaillons Ensemble !</h2>
